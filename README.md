@@ -1,11 +1,5 @@
 # challenge-2-telecomX-parte1
-<h1 align="center">📊 Proyecto de Análisis de Churn de Clientes - Telecom X</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estado-En%20progreso-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3.10-yellow?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Data%20Science-EDA-green?style=flat-square" />
-</p>
+## 📊 Proyecto de Análisis de Churn de Clientes - Telecom X</h1>
 
 ---
 
